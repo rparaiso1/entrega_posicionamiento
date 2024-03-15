@@ -43,8 +43,8 @@ header {
   background: var(--secondary-color);
   border: dotted var(--border-color);
   margin-left:85%;
-  padding: 20px;
-  width: 150px;
+  padding: 25px;
+  width: 200px;
 }
 
 .features {
